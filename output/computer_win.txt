@@ -1,0 +1,405 @@
+Would you like to start? (y/n): n
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+A1
+  1 2 3 4 5 6 7 8
+A X - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: C4
+  1 2 3 4 5 6 7 8
+A X - - - - - - -
+B - - - - - - - -
+C - - - O - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+A2
+  1 2 3 4 5 6 7 8
+A X X - - - - - -
+B - - - - - - - -
+C - - - O - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: C4
+That spot is already filled. Try Again
+O's turn: A4
+  1 2 3 4 5 6 7 8
+A X X - O - - - -
+B - - - - - - - -
+C - - - O - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+A3
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - - - - - -
+C - - - O - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: B4
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C - - - O - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+D4
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C - - - O - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: C2
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C - O - O - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+C1
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C X O - O - - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: C5
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C X O - O O - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+C3
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C X O X O O - - -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: C7
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C X O X O O - O -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+X's turn...
+C6
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C X O X O O X O -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+O's turn: G2
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - - - O - - - -
+C X O X O O X O -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+X's turn...
+A5
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B - - - O - - - -
+C X O X O O X O -
+D - - - X - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+O's turn: E2
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B - - - O - - - -
+C X O X O O X O -
+D - - - X - - - -
+E - O - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+X's turn...
+B1
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - - O - - - -
+C X O X O O X O -
+D - - - X - - - -
+E - O - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+O's turn: D1
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - - O - - - -
+C X O X O O X O -
+D O - - X - - - -
+E - O - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+X's turn...
+B3
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O - - X - - - -
+E - O - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+O's turn: D3
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O - O X - - - -
+E - O - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+X's turn...
+D2
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - - - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+O's turn: F2
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G - O - - - - - -
+H - - - - - - - -
+X's turn...
+H2
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G - O - - - - - -
+H - X - - - - - -
+O's turn: G4
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G - O - O - - - -
+H - X - - - - - -
+X's turn...
+G1
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G X O - O - - - -
+H - X - - - - - -
+O's turn: G5
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G X O - O O - - -
+H - X - - - - - -
+X's turn...
+G3
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G X O X O O - - -
+H - X - - - - - -
+O's turn: G7
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G X O X O O - O -
+H - X - - - - - -
+X's turn...
+G6
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - - -
+F - O - - - - - -
+G X O X O O X O -
+H - X - - - - - -
+O's turn: E7
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - - -
+E - O - - - - O -
+F - O - - - - - -
+G X O X O O X O -
+H - X - - - - - -
+X's turn...
+D7
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - X -
+E - O - - - - O -
+F - O - - - - - -
+G X O X O O X O -
+H - X - - - - - -
+O's turn: F7
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - X -
+E - O - - - - O -
+F - O - - - - O -
+G X O X O O X O -
+H - X - - - - - -
+X's turn...
+H7
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - X -
+E - O - - - - O -
+F - O - - - - O -
+G X O X O O X O -
+H - X - - - - X -
+O's turn: F4
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X - - X -
+E - O - - - - O -
+F - O - O - - O -
+G X O X O O X O -
+H - X - - - - X -
+X's turn...
+D5
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X X - X -
+E - O - - - - O -
+F - O - O - - O -
+G X O X O O X O -
+H - X - - - - X -
+O's turn: F3
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X X - X -
+E - O - - - - O -
+F - O O O - - O -
+G X O X O O X O -
+H - X - - - - X -
+X's turn...
+D6
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B X - X O - - - -
+C X O X O O X O -
+D O X O X X X X -
+E - O - - - - O -
+F - O O O - - O -
+G X O X O O X O -
+H - X - - - - X -
+Winner: X
+
+Moves Played:
+A1 C4 A2 A4 A3 B4 D4 C2 C1 C5 C3 C7 C6 G2 A5 E2 B1 D1 B3 D3 D2 F2 H2 G4 G1 G5 G3 G7 G6 E7 D7 F7 H7 F4 D5 F3 D6

@@ -9,7 +9,7 @@ class Board:
 
     DIMENSIONS = 8
     WIN = 4
-    MAX_TIME = 5
+    MAX_TIME = 2.5
     MAX_DEPTH = 5
     POSSIBLE_MOVES_CACHE: dict[Board, list[Board]] = {}
 
@@ -153,9 +153,9 @@ class Board:
                 assert letter is not None and index is not None
 
                 print(letter, index+1, sep="")
-                print(
-                    f"Reached Depth {current_depth - 1} in {(time() - start):4f}s"
-                )
+                # print(
+                #     f"Reached Depth {current_depth - 1} in {(time() - start):4f}s"
+                # )
 
                 # print_moves()
 
@@ -192,7 +192,7 @@ class Board:
                 assert letter is not None and index is not None
 
                 print(letter, index+1, sep="")
-                print(f"Reached Depth {current_depth - 1} in {(time() - start):4f}s")
+                # print(f"Reached Depth {current_depth - 1} in {(time() - start):4f}s")
 
             else:
                 print(f"{self.turn}'s turn... ")
@@ -217,7 +217,7 @@ class Board:
                 assert letter is not None and index is not None
 
                 print(letter, index+1, sep="")
-                print(f"Reached Depth {current_depth - 1} in {(time() - start):4f}s")
+                # print(f"Reached Depth {current_depth - 1} in {(time() - start):4f}s")
 
 
             self.place_piece(letter, index)
@@ -507,9 +507,22 @@ class Board:
 
         return max_x - max_o
 
+def get_starter() -> Piece:
+    starter = input("Would you like to start? (y/n): ")
+    match(starter):
+        case 'y':
+            return Piece.O
+        case 'n':
+            return Piece.X
+        case _:
+            print("You must enter 'y' or 'n'. Try Again.")
+            return get_starter()
+
 if __name__ == "__main__":
 
-    b = Board(Piece.O)
+    b = Board(get_starter())
     # b.play_moves("a1 b2 b3 b4")
-    b.gameplay_loop()
+    b.lonely_loop()
+    print()
+    print("Moves Played: ")
     print(b.moves_identifier)
