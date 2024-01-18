@@ -9,7 +9,7 @@ class Board:
 
     DIMENSIONS = 8
     WIN = 4
-    MAX_TIME = 2.5
+    MAX_TIME = 4
     MAX_DEPTH = 5
     POSSIBLE_MOVES_CACHE: dict[Board, list[Board]] = {}
 
@@ -522,7 +522,7 @@ if __name__ == "__main__":
 
     b = Board(get_starter())
     # b.play_moves("a1 b2 b3 b4")
-    b.lonely_loop()
+    b.gameplay_loop()
     print()
     print("Moves Played: ")
     print(b.moves_identifier)
