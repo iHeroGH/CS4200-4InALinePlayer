@@ -53,6 +53,7 @@ def max_value(
             beta: float,
             layers_remaining: int,
         ) -> tuple[Move, float, float]:
+    # Determine a move that maximizes the value of the state
 
     # A terminal state
     if (winner:=board.check_winners()) != Piece.EMPTY or layers_remaining <= 0:
@@ -91,6 +92,8 @@ def min_value(
             beta: float,
             layers_remaining: int,
         ) -> tuple[Move, float, float]:
+
+    # Determine a move that minimizes the value of the state
 
     # A terminal state
     if (winner:=board.check_winners()) != Piece.EMPTY or layers_remaining <= 0:
